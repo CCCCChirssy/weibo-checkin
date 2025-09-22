@@ -44,6 +44,10 @@ super_topic_active_ids = [
     "1008087ef93524a3a132a44420286b0fc5cecb",  # 过客超话
     "10080817c87af74adac8187d197f89c2fdbe10",  # 姚驰超话
     "100808677f12455f7885572c521c7af0c00620",  # 元泰超话
+    "100808b4fe836edf12db5c1b372b54fda70578",  # MRC超话
+    "1008084e40c046f3fc8a3f9d7deb2bca3659e4",  # YMY超话
+    "1008083bd107fe1f830f2cea9b5d9a64ead83e",  # 黄羿超话
+    "10080897afaada1c56c2b42646f13ec4c2c29e",  # 官鸿超话
 ]
 
 # 邮件配置，从环境变量读取
