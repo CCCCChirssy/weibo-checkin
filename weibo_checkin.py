@@ -51,6 +51,7 @@ super_topic_active_ids = [
     "1008085a8e56b29a9b9fd47a743e9ab23868b3",  # 夏之光超话
     "100808e0dedfe2081535fdf7087ca1deb71e49",  # 黄俊捷超话
     "1008084d5636cd202a55b815d93af3e509be4d",  # 澜久超话
+    "100808773a77fe72cec9bcd6ef5da70f39d13a",  # 坠子超话
     
 ]
 
