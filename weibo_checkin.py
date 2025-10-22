@@ -53,6 +53,7 @@ super_topic_active_ids = [
     "1008084d5636cd202a55b815d93af3e509be4d",  # 澜久超话
     "100808773a77fe72cec9bcd6ef5da70f39d13a",  # 坠子超话
     "100808b98505d1f9f8c86d9a87748fb6ecc9bd",  # 张凌赫超话
+    "1008088bfc6aeb8b8ab95fde940ce0acbd151a",  # TE溯超话
 ]
 
 # 邮件配置，从环境变量读取
