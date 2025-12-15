@@ -2,9 +2,11 @@ name: Keepalive Workflow
 
 on:
   schedule:
-    # 每周日运行一次 (0 0 * * 0)
     - cron: '0 0 * * 0'
   workflow_dispatch:
+
+permissions:
+  contents: write   # ⭐ 关键
 
 jobs:
   keepalive:
