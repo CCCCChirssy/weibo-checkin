@@ -54,6 +54,7 @@ super_topic_active_ids = [
     "100808773a77fe72cec9bcd6ef5da70f39d13a",  # 坠子超话
     "100808b98505d1f9f8c86d9a87748fb6ecc9bd",  # 张凌赫超话
     "1008088bfc6aeb8b8ab95fde940ce0acbd151a",  # TE溯超话
+    "100808195736aaaeced2b530871d9f3cbb3536",  # 盗墓笔记超话
 ]
 
 # 邮件配置，从环境变量读取
