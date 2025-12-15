@@ -2,8 +2,7 @@ name: Keepalive Workflow
 
 on:
   schedule:
-    # 每周日 UTC 00:00 运行（北京时间周一 08:00）
-    # 你可以改成 "0 0 * * *" 表示每天运行
+    # 每周日 UTC 00:00 运行
     - cron: "0 0 * * 0"
   workflow_dispatch: # 允许手动触发
 
@@ -13,14 +12,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          # 获取完整提交历史，这对keepalive很重要
           fetch-depth: 0
-          
+
       - uses: gautamkrishnar/keepalive-workflow@v2
         with:
-          # 50天无活动才执行（GitHub限制是60天，留10天余量）
           time_elapsed: 50
-          # 自定义提交信息
           commit_message: "🤖 chore: automatically keep repository active"
-          # 使用主分支
           branch: main
