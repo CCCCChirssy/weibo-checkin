@@ -36,7 +36,6 @@ super_topic_active_ids = [
     "1008083d659ffdc204023af75d08396610c5ab",  # 狼队超话
     "100808148df2ceb9ae32c3a89a9995e826cff1",  # 年锦超话
     "1008087b462fedd7abdb4dfc1ac9d294e41404",  # 白露超话
-    "1008083f32014bbfea2ca789394bc63cc2bfef",  # 487超话
     "1008086019f3ccd867f052c1c103d79fe907fb",  # 宠爱超话
     "100808e4bb7c196d2989fe2b94ce4054e94148",  # 配配超话
     "1008082c0d3b7895976fb42022380cc1bd9223",  # 回忆超话
@@ -55,6 +54,8 @@ super_topic_active_ids = [
     "100808b98505d1f9f8c86d9a87748fb6ecc9bd",  # 张凌赫超话
     "1008088bfc6aeb8b8ab95fde940ce0acbd151a",  # TE溯超话
     "100808195736aaaeced2b530871d9f3cbb3536",  # 盗墓笔记超话
+    "10080829515db321a7fa895db569099b540f6d",  # GR超话
+    "100808148df2ceb9ae32c3a89a9995e826cff1",  # 年锦超话
 ]
 
 # 邮件配置，从环境变量读取
