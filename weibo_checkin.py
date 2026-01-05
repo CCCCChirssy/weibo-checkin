@@ -15,7 +15,7 @@ cookies = {
 
 # 要签到的超话 ID
 super_topic_active_ids = [
-    "10080800f1d9cd468629907643285acb16e9cc",  # Weibo第五人格战队
+    "10080800f1d9cd468629907643285acb16e9cc",  # WBG第五人格战队
     "100808b8ca70cde6c7ff54bcec884aee9d5480",  # 第五瓜格
     "1008087978bfc1c2820f11b9b79e531a45136a",  # alf
     "100808133d563be98d9459a7913559febf81f6",  # 弄简超话
@@ -33,7 +33,7 @@ super_topic_active_ids = [
     "10080864872fd0a303a8cfcfa3caf03eba7ebb",  # REJECT超话
     "10080802fa0e806651ebb67a3355432cdca4e1",  # 捏捏超话
     "1008080ace918458b3513a1a4961b51a8b9e50",  # 空调超话
-    "1008083d659ffdc204023af75d08396610c5ab",  # 狼队超话
+    "1008083d659ffdc204023af75d08396610c5ab",  # Wolves超话
     "100808148df2ceb9ae32c3a89a9995e826cff1",  # 年锦超话
     "1008087b462fedd7abdb4dfc1ac9d294e41404",  # 白露超话
     "1008086019f3ccd867f052c1c103d79fe907fb",  # 宠爱超话
@@ -55,7 +55,6 @@ super_topic_active_ids = [
     "1008088bfc6aeb8b8ab95fde940ce0acbd151a",  # TE溯超话
     "100808195736aaaeced2b530871d9f3cbb3536",  # 盗墓笔记超话
     "10080829515db321a7fa895db569099b540f6d",  # GR超话
-    "100808148df2ceb9ae32c3a89a9995e826cff1",  # 年锦超话
 ]
 
 # 邮件配置，从环境变量读取
