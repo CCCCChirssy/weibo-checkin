@@ -55,6 +55,8 @@ super_topic_active_ids = [
     "1008088bfc6aeb8b8ab95fde940ce0acbd151a",  # TE溯超话
     "100808195736aaaeced2b530871d9f3cbb3536",  # 盗墓笔记超话
     "10080829515db321a7fa895db569099b540f6d",  # GR超话
+    "10080862ec49df011fad8106dc5bd5fe8e80b4",  # 乔殊超话
+    "100808700e87892a1d3caa3c765ac9d28cabb2",  # LASER超话
 ]
 
 # 邮件配置，从环境变量读取
