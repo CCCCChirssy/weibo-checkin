@@ -65,6 +65,7 @@ super_topic_active_ids = [
     "10080852e4640dbaeac8fbc8841b8a1270b5d9",  # 宋威龙
     "100808a4b96bd8bd43ed12d5e762b088d8c891",  # 王安宇
     "100808dbd4b050d0862ec930ce5596a39c4a8e",  # ZQ超话
+    "10080827f42cb27b21226fc9cce2c060d789ff",  # 宋郁河
 ]
 
 # 邮件配置，从环境变量读取
